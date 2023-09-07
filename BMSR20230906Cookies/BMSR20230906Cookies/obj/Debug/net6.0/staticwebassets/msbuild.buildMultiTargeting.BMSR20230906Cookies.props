@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BMSR20230906Cookies.props" />
+</Project>
